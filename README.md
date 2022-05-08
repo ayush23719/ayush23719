@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush23719
 - 👀 I’m interested in "Developing" the world!...or rather just the Web.
-- 🌱 I’m currently learning MEAN Stack Development.
-- 💞️ I’m looking to collaborate on projects and ideas related to MEAN Stack/other Web Domains.
+- 🌱 I’m currently learning MEAN/MERN Stack Development.
+- 💞️ I’m looking to collaborate on projects and ideas related to Web Domain.
 - 📫 Email: ayush23719@yahoo.com
 
 <!---
